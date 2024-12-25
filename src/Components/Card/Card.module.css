@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.divContainer{
+    width: 540px;
+    border: 2px solid black;
+    box-shadow: 0px 0px 20px black;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    /* height: 530px; */
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: white;
+}
+.img{
+    height: 200px;
+}
